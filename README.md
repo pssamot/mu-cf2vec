@@ -6,7 +6,7 @@
  
   70_10_20 was the choosen one. We obtained the embeddings for each user (training interactions) using two methods: Variational Auto Encoders for Collaborative Filtering, and Collaborative Denoising Auto Encodes. 
   
- The processed data and the embbedings for each user can be find in:
+ The processed data and the embbedings for each user can be find in: https://drive.google.com/file/d/1yYur8FVU-RBw4_5wpl9lLYX6UfKeD64G/view?usp=sharing
  
  We used the Fast Python Collaborative Filtering for Implicit Datasets (https://github.com/benfred/implicit). Base Learners used:
   - ALS
